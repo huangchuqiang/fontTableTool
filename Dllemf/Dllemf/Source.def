@@ -1,0 +1,4 @@
+LIBRARY Dllemf
+EXPORTS
+emfFontName @1
+getFontNameFromTTF @2
