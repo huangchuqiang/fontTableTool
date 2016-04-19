@@ -1,0 +1,272 @@
+c:\windows\fonts\arial.ttf || Arial
+c:\windows\fonts\ariblk.ttf || Arial Black
+c:\windows\fonts\arialbd.ttf || Arial Bold
+c:\windows\fonts\arialbi.ttf || Arial Bold Italic
+c:\windows\fonts\ariali.ttf || Arial Italic
+c:\windows\fonts\calibri.ttf || Calibri
+c:\windows\fonts\calibrib.ttf || Calibri Bold
+c:\windows\fonts\calibriz.ttf || Calibri Bold Italic
+c:\windows\fonts\calibrii.ttf || Calibri Italic
+c:\windows\fonts\calibril.ttf || Calibri Light
+c:\windows\fonts\calibrili.ttf || Calibri Light Italic
+c:\windows\fonts\cambria.ttc || Cambria & Cambria Math & 
+c:\windows\fonts\cambriab.ttf || Cambria Bold
+c:\windows\fonts\cambriaz.ttf || Cambria Bold Italic
+c:\windows\fonts\cambriai.ttf || Cambria Italic
+c:\windows\fonts\candara.ttf || Candara
+c:\windows\fonts\candarab.ttf || Candara Bold
+c:\windows\fonts\candaraz.ttf || Candara Bold Italic
+c:\windows\fonts\candarai.ttf || Candara Italic
+c:\windows\fonts\comic.ttf || Comic Sans MS
+c:\windows\fonts\comicbd.ttf || Comic Sans MS Bold
+c:\windows\fonts\comicz.ttf || Comic Sans MS Bold Italic
+c:\windows\fonts\comici.ttf || Comic Sans MS Italic
+c:\windows\fonts\consola.ttf || Consolas
+c:\windows\fonts\consolab.ttf || Consolas Bold
+c:\windows\fonts\consolaz.ttf || Consolas Bold Italic
+c:\windows\fonts\consolai.ttf || Consolas Italic
+c:\windows\fonts\constan.ttf || Constantia
+c:\windows\fonts\constanb.ttf || Constantia Bold
+c:\windows\fonts\constanz.ttf || Constantia Bold Italic
+c:\windows\fonts\constani.ttf || Constantia Italic
+c:\windows\fonts\corbel.ttf || Corbel
+c:\windows\fonts\corbelb.ttf || Corbel Bold
+c:\windows\fonts\corbelz.ttf || Corbel Bold Italic
+c:\windows\fonts\corbeli.ttf || Corbel Italic
+c:\windows\fonts\cour.ttf || Courier New
+c:\windows\fonts\courbd.ttf || Courier New Bold
+c:\windows\fonts\courbi.ttf || Courier New Bold Italic
+c:\windows\fonts\couri.ttf || Courier New Italic
+c:\windows\fonts\ebrima.ttf || Ebrima
+c:\windows\fonts\ebrimabd.ttf || Ebrima Bold
+c:\windows\fonts\framd.ttf || Franklin Gothic Medium
+c:\windows\fonts\framdit.ttf || Franklin Gothic Medium Italic
+c:\windows\fonts\Gabriola.ttf || Gabriola
+c:\windows\fonts\gadugi.ttf || Gadugi
+c:\windows\fonts\gadugib.ttf || Gadugi Bold
+c:\windows\fonts\georgia.ttf || Georgia
+c:\windows\fonts\georgiab.ttf || Georgia Bold
+c:\windows\fonts\georgiaz.ttf || Georgia Bold Italic
+c:\windows\fonts\georgiai.ttf || Georgia Italic
+c:\windows\fonts\impact.ttf || Impact
+c:\windows\fonts\javatext.ttf || Javanese Text
+c:\windows\fonts\leelawui.ttf || Leelawadee UI
+c:\windows\fonts\leelauib.ttf || Leelawadee UI Bold
+c:\windows\fonts\leeluisl.ttf || Leelawadee UI Semilight
+c:\windows\fonts\lucon.TTF || Lucida Console
+c:\windows\fonts\l_10646.ttf || Lucida Sans Unicode
+c:\windows\fonts\malgun.ttf || Malgun Gothic
+c:\windows\fonts\malgunbd.ttf || Malgun Gothic Bold
+c:\windows\fonts\malgunsl.ttf || Malgun Gothic Semilight
+c:\windows\fonts\himalaya.ttf || Microsoft Himalaya
+c:\windows\fonts\msjh.ttc || Microsoft JhengHei & Microsoft JhengHei UI & 
+c:\windows\fonts\msjhbd.ttc || Microsoft JhengHei Bold & Microsoft JhengHei UI Bold & 
+c:\windows\fonts\msjhl.ttc || Microsoft JhengHei Light & Microsoft JhengHei UI Light & 
+c:\windows\fonts\ntailu.ttf || Microsoft New Tai Lue
+c:\windows\fonts\ntailub.ttf || Microsoft New Tai Lue Bold
+c:\windows\fonts\phagspa.ttf || Microsoft PhagsPa
+c:\windows\fonts\phagspab.ttf || Microsoft PhagsPa Bold
+c:\windows\fonts\micross.ttf || Microsoft Sans Serif
+c:\windows\fonts\taile.ttf || Microsoft Tai Le
+c:\windows\fonts\taileb.ttf || Microsoft Tai Le Bold
+c:\windows\fonts\msyh.ttc || 微软雅黑 & Microsoft Yahei UI & 
+c:\windows\fonts\msyhbd.ttc || 微软雅黑 Bold & Microsoft Yahei UI Bold & 
+c:\windows\fonts\msyhl.ttc || 微软雅黑 Light & Microsoft YaHei UI Light & 
+c:\windows\fonts\msyi.ttf || Microsoft Yi Baiti
+c:\windows\fonts\mingliub.ttc || MingLiU-ExtB & PMingLiU-ExtB & MingLiU_HKSCS-ExtB & 
+c:\windows\fonts\modern.fon || c:\windows\fonts\modern.fon
+c:\windows\fonts\monbaiti.ttf || Mongolian Baiti
+c:\windows\fonts\mvboli.ttf || MV Boli
+c:\windows\fonts\mmrtext.ttf || Myanmar Text
+c:\windows\fonts\mmrtextb.ttf || Myanmar Text Bold
+c:\windows\fonts\Nirmala.ttf || Nirmala UI
+c:\windows\fonts\NirmalaB.ttf || Nirmala UI Bold
+c:\windows\fonts\NirmalaS.ttf || Nirmala UI Semilight
+c:\windows\fonts\pala.ttf || Palatino Linotype
+c:\windows\fonts\palab.ttf || Palatino Linotype Bold
+c:\windows\fonts\palabi.ttf || Palatino Linotype Bold Italic
+c:\windows\fonts\palai.ttf || Palatino Linotype Italic
+c:\windows\fonts\roman.fon || c:\windows\fonts\roman.fon
+c:\windows\fonts\script.fon || c:\windows\fonts\script.fon
+c:\windows\fonts\segmdl2.ttf || Segoe MDL2 Assets
+c:\windows\fonts\segoepr.ttf || Segoe Print
+c:\windows\fonts\segoeprb.ttf || Segoe Print Bold
+c:\windows\fonts\segoesc.ttf || Segoe Script
+c:\windows\fonts\segoescb.ttf || Segoe Script Bold
+c:\windows\fonts\segoeui.ttf || Segoe UI
+c:\windows\fonts\seguibl.ttf || Segoe UI Black
+c:\windows\fonts\seguibli.ttf || Segoe UI Black Italic
+c:\windows\fonts\segoeuib.ttf || Segoe UI Bold
+c:\windows\fonts\segoeuiz.ttf || Segoe UI Bold Italic
+c:\windows\fonts\seguiemj.ttf || Segoe UI Emoji
+c:\windows\fonts\seguihis.ttf || Segoe UI Historic
+c:\windows\fonts\segoeuii.ttf || Segoe UI Italic
+c:\windows\fonts\segoeuil.ttf || Segoe UI Light
+c:\windows\fonts\seguili.ttf || Segoe UI Light Italic
+c:\windows\fonts\seguisb.ttf || Segoe UI Semibold
+c:\windows\fonts\seguisbi.ttf || Segoe UI Semibold Italic
+c:\windows\fonts\segoeuisl.ttf || Segoe UI Semilight
+c:\windows\fonts\seguisli.ttf || Segoe UI Semilight Italic
+c:\windows\fonts\seguisym.ttf || Segoe UI Symbol
+c:\windows\fonts\simsun.ttc || 宋体 & 新宋体 & 
+c:\windows\fonts\simsunb.ttf || SimSun-ExtB
+c:\windows\fonts\Sitka.ttc || Sitka Small & Sitka Text & Sitka Subheading & Sitka Heading & Sitka Display & Sitka Banner & 
+c:\windows\fonts\SitkaB.ttc || Sitka Small Bold & Sitka Text Bold & Sitka Subheading Bold & Sitka Heading Bold & Sitka Display Bold & Sitka Banner Bold & 
+c:\windows\fonts\SitkaZ.ttc || Sitka Small Bold Italic & Sitka Text Bold Italic & Sitka Subheading Bold Italic & Sitka Heading Bold Italic & Sitka Display Bold Italic & Sitka Banner Bold Italic & 
+c:\windows\fonts\SitkaI.ttc || Sitka Small Italic & Sitka Text Italic & Sitka Subheading Italic & Sitka Heading Italic & Sitka Display Italic & Sitka Banner Italic & 
+c:\windows\fonts\sylfaen.ttf || Sylfaen
+c:\windows\fonts\symbol.ttf || 
+c:\windows\fonts\tahoma.ttf || Tahoma
+c:\windows\fonts\tahomabd.ttf || Tahoma Bold
+c:\windows\fonts\times.ttf || Times New Roman
+c:\windows\fonts\timesbd.ttf || Times New Roman Bold
+c:\windows\fonts\timesbi.ttf || Times New Roman Bold Italic
+c:\windows\fonts\timesi.ttf || Times New Roman Italic
+c:\windows\fonts\trebuc.ttf || Trebuchet MS
+c:\windows\fonts\trebucbd.ttf || Trebuchet MS Bold
+c:\windows\fonts\trebucbi.ttf || Trebuchet MS Bold Italic
+c:\windows\fonts\trebucit.ttf || Trebuchet MS Italic
+c:\windows\fonts\verdana.ttf || Verdana
+c:\windows\fonts\verdanab.ttf || Verdana Bold
+c:\windows\fonts\verdanaz.ttf || Verdana Bold Italic
+c:\windows\fonts\verdanai.ttf || Verdana Italic
+c:\windows\fonts\webdings.ttf || 
+c:\windows\fonts\wingding.ttf || 
+c:\windows\fonts\YuGothB.ttc || Yu Gothic Bold & Yu Gothic UI Bold & Yu Gothic UI Semibold & 
+c:\windows\fonts\YuGothL.ttc || Yu Gothic Light & Yu Gothic UI Light & 
+c:\windows\fonts\YuGothM.ttc || Yu Gothic Medium & Yu Gothic UI Regular & 
+c:\windows\fonts\YuGothR.ttc || Yu Gothic Regular & Yu Gothic UI Semilight & 
+c:\windows\fonts\COURE.FON || c:\windows\fonts\COURE.FON
+c:\windows\fonts\COURF.FON || c:\windows\fonts\COURF.FON
+c:\windows\fonts\SERIFE.FON || c:\windows\fonts\SERIFE.FON
+c:\windows\fonts\SERIFF.FON || c:\windows\fonts\SERIFF.FON
+c:\windows\fonts\SSERIFE.FON || c:\windows\fonts\SSERIFE.FON
+c:\windows\fonts\SSERIFF.FON || c:\windows\fonts\SSERIFF.FON
+c:\windows\fonts\SMALLE.FON || c:\windows\fonts\SMALLE.FON
+c:\windows\fonts\SMALLF.FON || c:\windows\fonts\SMALLF.FON
+c:\windows\fonts\Deng.ttf || 等线
+c:\windows\fonts\Dengb.ttf || 等线 Bold
+c:\windows\fonts\Dengl.ttf || 等线 Light
+c:\windows\fonts\simfang.ttf || 仿宋
+c:\windows\fonts\simkai.ttf || 楷体
+c:\windows\fonts\simhei.ttf || 黑体
+c:\windows\fonts\BuxtonSketch.ttf || Buxton Sketch
+c:\windows\fonts\SegoeMarker.ttf || Segoe Marker
+c:\windows\fonts\SketchFlow || c:\windows\fonts\SketchFlow
+c:\windows\fonts\Print.ttf || c:\windows\fonts\Print.ttf
+c:\windows\fonts\FZSTK.TTF || 方正舒体
+c:\windows\fonts\FZYTK.TTF || 方正姚体
+c:\windows\fonts\STCAIYUN.TTF || 华文彩云
+c:\windows\fonts\STFANGSO.TTF || 华文仿宋
+c:\windows\fonts\STHUPO.TTF || 华文琥珀
+c:\windows\fonts\STKAITI.TTF || 华文楷体
+c:\windows\fonts\STLITI.TTF || 华文隶书
+c:\windows\fonts\STSONG.TTF || 华文宋体
+c:\windows\fonts\STXIHEI.TTF || 华文细黑
+c:\windows\fonts\STXINGKA.TTF || 华文行楷
+c:\windows\fonts\STXINWEI.TTF || 华文新魏
+c:\windows\fonts\STZHONGS.TTF || 华文中宋
+c:\windows\fonts\SIMYOU.TTF || 幼圆
+c:\windows\fonts\ARIALUNI.TTF || Arial Unicode MS
+c:\windows\fonts\CENTURY.TTF || Century
+c:\windows\fonts\WINGDNG2.TTF || 
+c:\windows\fonts\WINGDNG3.TTF || 
+c:\windows\fonts\BKANT.TTF || Book Antiqua
+c:\windows\fonts\GOTHIC.TTF || Century Gothic
+c:\windows\fonts\OUTLOOK.TTF || 
+c:\windows\fonts\TEMPSITC.TTF || Tempus Sans ITC
+c:\windows\fonts\PRISTINA.TTF || Pristina
+c:\windows\fonts\PAPYRUS.TTF || Papyrus
+c:\windows\fonts\MISTRAL.TTF || Mistral
+c:\windows\fonts\LHANDW.TTF || Lucida Handwriting Italic
+c:\windows\fonts\ITCKRIST.TTF || Kristen ITC
+c:\windows\fonts\JUICE___.TTF || Juice ITC
+c:\windows\fonts\FRSCRIPT.TTF || French Script MT
+c:\windows\fonts\FREESCPT.TTF || Freestyle Script
+c:\windows\fonts\BRADHITC.TTF || Bradley Hand ITC
+c:\windows\fonts\GARA.TTF || Garamond
+c:\windows\fonts\MTCORSVA.TTF || Monotype Corsiva
+c:\windows\fonts\ALGER.TTF || Algerian
+c:\windows\fonts\BASKVILL.TTF || Baskerville Old Face
+c:\windows\fonts\BAUHS93.TTF || Bauhaus 93
+c:\windows\fonts\BELL.TTF || Bell MT
+c:\windows\fonts\BRLNSB.TTF || Berlin Sans FB Bold
+c:\windows\fonts\BERNHC.TTF || Bernard MT Condensed
+c:\windows\fonts\BOD_PSTC.TTF || Bodoni MT Poster Compressed
+c:\windows\fonts\BRITANIC.TTF || Britannic Bold
+c:\windows\fonts\BROADW.TTF || Broadway
+c:\windows\fonts\BRUSHSCI.TTF || Brush Script MT Italic
+c:\windows\fonts\CALIFR.TTF || Californian FB
+c:\windows\fonts\CENTAUR.TTF || Centaur
+c:\windows\fonts\CHILLER.TTF || Chiller
+c:\windows\fonts\COLONNA.TTF || Colonna MT
+c:\windows\fonts\COOPBL.TTF || Cooper Black
+c:\windows\fonts\FTLTLT.TTF || Footlight MT Light
+c:\windows\fonts\HARLOWSI.TTF || Harlow Solid Italic
+c:\windows\fonts\HARNGTON.TTF || Harrington
+c:\windows\fonts\HTOWERT.TTF || High Tower Text
+c:\windows\fonts\JOKERMAN.TTF || Jokerman
+c:\windows\fonts\KUNSTLER.TTF || Kunstler Script
+c:\windows\fonts\LBRITE.TTF || Lucida Bright
+c:\windows\fonts\LCALLIG.TTF || Lucida Calligraphy Italic
+c:\windows\fonts\LFAX.TTF || Lucida Fax Regular
+c:\windows\fonts\MAGNETOB.TTF || Magneto Bold
+c:\windows\fonts\MATURASC.TTF || Matura MT Script Capitals
+c:\windows\fonts\MOD20.TTF || Modern No. 20
+c:\windows\fonts\NIAGENG.TTF || Niagara Engraved
+c:\windows\fonts\NIAGSOL.TTF || Niagara Solid
+c:\windows\fonts\OLDENGL.TTF || Old English Text MT
+c:\windows\fonts\ONYX.TTF || Onyx
+c:\windows\fonts\PARCHM.TTF || Parchment
+c:\windows\fonts\PLAYBILL.TTF || Playbill
+c:\windows\fonts\POORICH.TTF || Poor Richard
+c:\windows\fonts\RAVIE.TTF || Ravie
+c:\windows\fonts\INFROMAN.TTF || Informal Roman
+c:\windows\fonts\SHOWG.TTF || Showcard Gothic
+c:\windows\fonts\SNAP____.TTF || Snap ITC
+c:\windows\fonts\STENCIL.TTF || Stencil
+c:\windows\fonts\VINERITC.TTF || Viner Hand ITC
+c:\windows\fonts\VIVALDII.TTF || Vivaldi Italic
+c:\windows\fonts\VLADIMIR.TTF || Vladimir Script
+c:\windows\fonts\LATINWD.TTF || Wide Latin
+c:\windows\fonts\BOOKOS.TTF || Bookman Old Style
+c:\windows\fonts\BSSYM7.TTF || 
+c:\windows\fonts\REFSAN.TTF || MS Reference Sans Serif
+c:\windows\fonts\REFSPCL.TTF || 
+c:\windows\fonts\ANTQUAB.TTF || Book Antiqua Bold
+c:\windows\fonts\ANTQUABI.TTF || Book Antiqua Bold Italic
+c:\windows\fonts\ANTQUAI.TTF || Book Antiqua Italic
+c:\windows\fonts\GOTHICB.TTF || Century Gothic Bold
+c:\windows\fonts\GOTHICBI.TTF || Century Gothic Bold Italic
+c:\windows\fonts\GOTHICI.TTF || Century Gothic Italic
+c:\windows\fonts\GARABD.TTF || Garamond Bold
+c:\windows\fonts\GARAIT.TTF || Garamond Italic
+c:\windows\fonts\BELLB.TTF || Bell MT Bold
+c:\windows\fonts\BELLI.TTF || Bell MT Italic
+c:\windows\fonts\BRLNSDB.TTF || Berlin Sans FB Demi Bold
+c:\windows\fonts\BRLNSR.TTF || Berlin Sans FB
+c:\windows\fonts\CALIFB.TTF || Californian FB Bold
+c:\windows\fonts\CALIFI.TTF || Californian FB Italic
+c:\windows\fonts\HTOWERTI.TTF || High Tower Text Italic
+c:\windows\fonts\LBRITED.TTF || Lucida Bright Demibold
+c:\windows\fonts\LBRITEDI.TTF || Lucida Bright Demibold Italic
+c:\windows\fonts\LBRITEI.TTF || Lucida Bright Italic
+c:\windows\fonts\LFAXD.TTF || Lucida Fax Demibold
+c:\windows\fonts\LFAXDI.TTF || Lucida Fax Demibold Italic
+c:\windows\fonts\LFAXI.TTF || Lucida Fax Italic
+c:\windows\fonts\BOOKOSB.TTF || Bookman Old Style Bold
+c:\windows\fonts\BOOKOSBI.TTF || Bookman Old Style Bold Italic
+c:\windows\fonts\BOOKOSI.TTF || Bookman Old Style Italic
+c:\windows\fonts\ARIALN.TTF || Arial Narrow
+c:\windows\fonts\ARIALNB.TTF || Arial Narrow Bold
+c:\windows\fonts\ARIALNBI.TTF || Arial Narrow Bold Italic
+c:\windows\fonts\ARIALNI.TTF || Arial Narrow Italic
+c:\windows\fonts\CORDIAUI.TTF || c:\windows\fonts\CORDIAUI.TTF
+c:\windows\fonts\CORDIAUB.TTF || c:\windows\fonts\CORDIAUB.TTF
+c:\windows\fonts\CORDIAUZ.TTF || c:\windows\fonts\CORDIAUZ.TTF
+c:\windows\fonts\CORDIAU.TTF || c:\windows\fonts\CORDIAU.TTF
+c:\windows\fonts\FZLTCXHJW.TTF || 方正兰亭超细黑简体
+c:\windows\fonts\msgothic.ttc || MS Gothic & MS UI Gothic & MS PGothic & 
+c:\windows\fonts\SIMLI.TTF || 隶书
+c:\windows\fonts\SIMYOU.TTF || 幼圆
+c:\windows\fonts\STLITI.TTF || 华文隶书
