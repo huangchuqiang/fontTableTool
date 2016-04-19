@@ -5,3 +5,6 @@
 .\py_script\config\result.txt
 .\py_script\dll\emfFileName.txt
 .\py_script\dll\emfFontName.txt
+.\Dllemf\Dllemf\Debug\
+.\Dllemf\Dllemf\x64\
+.\Dllemf\Dllemf.opensdf
