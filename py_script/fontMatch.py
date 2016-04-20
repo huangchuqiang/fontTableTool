@@ -31,6 +31,23 @@ def deleteFont(fontName):
 			values = [x.strip() for x in temp[1].split("&") if len(x.strip()) > 0]
 			fontMap[key] = values
 
+		fontFile.close()
+
+		#补上一些程序无法解释的ttf文件的字体
+		fontFile = open(os.path.join(os.getcwd(), "config", "fontMap_static.txt"), "r")
+		print ("read static fonts")
+		for line in fontFile.readlines():
+			temp = line.split("||")
+			key = temp[0].strip()
+			print (temp)
+			if ((key in fontMap) and (fontMap[key] == key or len(fontMap[key]) == 0)):
+				values = [x.strip() for x in temp[1].split("&") if len(x.strip()) > 0]
+				fontMap[key] = values
+				#print ("----static:" + key)
+				#print (values)
+
+		fontFile.close()
+
 	#print (fontMap)
 	print (fontName)
 	for (key, values) in fontMap.items():
@@ -108,13 +125,16 @@ def maching():
 	print(endFonts)
 	filePath = os.path.join(os.getcwd(), "pptxfiles")
 	listDir = os.listdir(filePath)
-	if (len(listDir) == 0):
+	if (len(listDir) < 2):
 		from generPptxFiles import generFiles
 		generFiles(os.path.join(os.getcwd(), "config", "testfonts.txt"))
 		listDir = os.listdir(filePath)
 	print (listDir)
 	for file in listDir:
 		print (file)
+		if (file[0:1] == "."):
+			continue
+
 		index = 1
 		fileName= os.path.basename(file).split(".")[0]
 		absFilePath = os.path.join(filePath, file)

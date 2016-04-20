@@ -6,3 +6,5 @@
 .\Dllemf\Dllemf\Debug\
 .\Dllemf\Dllemf\x64\
 .\Dllemf\Dllemf.opensdf
+py_script/config/fontMap.txt
+py_script/dll/emfFontName.txt
