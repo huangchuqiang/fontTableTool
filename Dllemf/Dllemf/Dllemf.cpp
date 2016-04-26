@@ -10,17 +10,22 @@
 #include <string>
 #include<fstream>
 #include <iostream>
-#include <windows.h>
 #include <cctype>
 #include <algorithm>
 #include <functional>
 
 #include <string>
 #include<atlstr.h>
+#include "gel/stxutif.h"
+
+#include <windows.h>
+#pragma comment(lib, "kernel32.lib")
+#pragma comment(lib, "user32.lib")
+#pragma comment(lib, "gdi32.lib")
 #define OUT
 
 using namespace std;
-
+using namespace gel;
 
 static bool scanEmfHeader(const char* bits, const int len, OUT int& offset)
 {
@@ -138,59 +143,75 @@ DLLEMF_API bool emfFontName()
 }
 
 //-------------------------------------------------------------------------------------------
-void getTtfFileName(vector<string>& vecFontsFiles)
+void getTtfFileName(vector<wstring>& vecFontsFiles)
 {
-	fstream f(dllPath + "config\\fontTables.txt", ios::in);
-
-	while (!f.eof())
+	std::wifstream fsi;
+	fsi.imbue(stdx::utf8_locale);
+	fsi.open(dllPath + "config\\fontTables.txt");
+	cout << "begin open fontTables.txt" << std::endl;
+	if (!fsi.good())
 	{
-		string fileName;
-		f >> fileName;
-		if (!fileName.empty())
-			vecFontsFiles.push_back("c:\\windows\\fonts\\" + trim(fileName));
+		std::cout << "open fontTables.txt error" << std::endl;
+		return;
+	}
+	wchar_t c; 
+	while (!fsi.eof())
+	{
+		std::wstring s;
+		fsi >> s;
+		if (!s.empty())
+			vecFontsFiles.push_back(__T("c:\\windows\\fonts\\") + s);
 	}
 
-	f.close();
+	fsi.close();
+	cout << "open fontTables ok" << std::endl;
 }
 
-void saveFonts(vector<string>& vecFontsName, vector<string>& vecFiles)
+void saveFonts(vector<wstring>& vecFontsName, vector<wstring>& vecFiles)
 {
-	std::cout << dllPath.c_str();
-	fstream f(dllPath + "config\\fontMap.txt", ios::out);
+	std::wofstream fso;
+	fso.imbue(stdx::utf8_locale);
+	fso.open(dllPath + "config\\fontMap.txt", fso.out | fso.trunc);
+	cout << "begin save fontMap" << std::endl;
+	if (!fso.good())
+	{
+		cout << "save fontMap error" << std::endl;
+		return;
+	}
 
 	std::size_t len = vecFiles.size();
 	for (int i = 0; i < len; ++i)
-		f << vecFiles[i].c_str() << " || " << vecFontsName[i].c_str() << std::endl;
+		fso << vecFiles[i].c_str() << " || " << vecFontsName[i].c_str() << std::endl;
 
-	f.close();
+	fso.close();
+	cout << "save fontMap ok" << std::endl;
 }
 
 DLLEMF_API bool getFontNameFromTTF()
 {
-	vector<string> ttfFiles;
+	vector<wstring> ttfFiles;
 	getTtfFileName(ttfFiles);
-	vector<string> ttfFonts;
+	vector<wstring> ttfFonts;
 
 	for (auto it = ttfFiles.begin(); it != ttfFiles.end(); ++it)
 	{
-		string file(*it);
-		cout << file << endl;
-		if (file.find(".TTF") != string::npos || file.find(".ttf") != string::npos)
+		std::wstring file(*it);
+		if (file.find(__T(".TTF")) != string::npos || file.find(__T(".ttf")) != std::string::npos)
 		{
 			TTF ttf;
-			if (ttf.Parse(s2ws(file.c_str())))
-				ttfFonts.push_back(ws2s(ttf.GetFontName()));
+			if (ttf.Parse(file))
+				ttfFonts.push_back(ttf.GetFontName());
 			else
 				ttfFonts.push_back(file);
 		}
-		else if (file.find(".TTC") != string::npos || file.find(".ttc") != string::npos)
+		else if (file.find(__T(".TTC")) != string::npos || file.find(__T(".ttc")) != string::npos)
 		{
 			TTC ttc;
-			if (ttc.Parse(s2ws(file.c_str())))
+			if (ttc.Parse(file))
 			{
-				string fontName;
+				wstring fontName;
 				for (int i = 0; i < ttc.Size(); ++i)
-					fontName += ws2s(ttc.GetFontName(i)) + " & ";
+					fontName += ttc.GetFontName(i) + __T(" & ");
 
 				ttfFonts.push_back(fontName);
 			}
